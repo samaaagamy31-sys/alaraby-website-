@@ -1,0 +1,69 @@
+body{
+font-family: Arial;
+margin: 0;
+background-color: #f5f5f5;
+direction: rtl;
+}
+.hero-img{
+width: 100%;
+height: 400px;
+object-fit: cover;
+}
+h1{
+text-align: center;
+margin-top: 50px;
+}
+.about{
+text-align: center;
+padding: 20px;
+}
+.about p{
+font-size: 18px;
+line-height: 1.9;
+}
+.main-title{
+text-align: center;
+margin-top: 40px;
+color: darkblue;
+}
+.chart-section{
+width: 90%;
+margin: 40px auto;
+background-color: white;
+padding: 20px;
+text-align: center;
+border-radius: 10px;
+}
+.chart-img{
+width: 100%;
+height: auto;
+border-radius: 10px;
+}
+.chart-text h3{
+color: darkblue;
+margin-top: 15px;
+}
+.chart-text p{
+font-size: 17px;
+line-height: 1.9;
+}
+.videos{
+width: 90%;
+margin: 50px auto;
+text-align: center;
+}
+.video-box{
+background: white;
+padding: 20px;
+margin-bottom: 30px;
+border-radius: 10px;
+}
+.video-box h3{
+color: darkblue;
+margin-bottom: 10px;
+}
+video{
+width: 70%;
+max-width: 600px;
+border-radius: 10px;
+}
